@@ -8,5 +8,7 @@ public class GitDemo1 {
         System.out.println("hello git 111");
         System.out.println("冲突2");
         System.out.println("push test");
+        System.out.println("pull test");
+        
     }
 }
